@@ -1,0 +1,86 @@
+#NewkirkPlaza1 {
+    width: 300px;
+  }
+
+#NewkirkPlaza2 {
+    width: 300px;
+  }
+
+#NewkirkPlaza3 {
+    width: 300px;
+  }
+  #NewkirkPlaza4 {
+    width: 300px;
+
+}
+#NewkirkPlaza5 {
+    width: 300px;
+
+}
+
+h1 {
+  margin: 25px;
+  text-align: center;
+  font-family: serif, Georgia;
+}
+
+
+.images {
+  text-align: center;
+  margin: auto;
+}
+
+body {
+  font-family: serif, Georgia;
+}
+
+.essay {
+  text-align: center;
+  font-size: 18px;
+  margin-right: 250px;
+  margin-left: 250px;
+}
+.HomepageHeaders {
+  text-align: left;
+  font-family: serif, Georgia;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+p {
+  color: dimgray;
+  font-size: 18px;
+}
+
+
+.navbar-brand {
+  font-size: 20px;
+}
+
+.gallery {
+  text-align: center;
+  margin: 25px;
+  outline-style: double;
+  outline-offset: 20px;
+  background-color: LemonChiffon;
+}
+
+.desc {
+  color: dimgray;
+  font-family: serif, Georgia;
+  font-size: 18px;
+}
+
+#picturesp {
+  text-align: center;
+  font-size: 18px;
+}
+
+.background {
+  background-image: url("https://i.ytimg.com/vi/9tr8BALDsNY/maxresdefault.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+
